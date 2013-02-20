@@ -1,0 +1,6 @@
+NEW FEATURES
+This version has several new features including the following:
+1. Multiple fields for telephone numbers (both of patient and next of kin), presenting complaints, medication history
+2. Fields for uploading video and audio files into patient's record
+3. Live image capture from webcam or similar digital camera
+4. Automatic scheduled database backup , and easy backup download interface
